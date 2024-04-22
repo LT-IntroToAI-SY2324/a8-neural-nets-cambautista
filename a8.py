@@ -1,4 +1,4 @@
-from neural import *
+from neural import NeuralNet
 
 # print("<<<<<<<<<<<<<< XOR >>>>>>>>>>>>>>\n")
 
